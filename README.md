@@ -5,6 +5,9 @@
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2FSamsung%2Fiotjs.svg?type=shield)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2FSamsung%2Fiotjs?ref=badge_shield)
 [![IRC Channel](https://img.shields.io/badge/chat-on%20freenode-brightgreen.svg)](https://kiwiirc.com/client/irc.freenode.net/#iotjs)
 
+[![security status](https://qa.meterian.com/badge/gh/NiciFranchi/iotjs/security)](https://qa.meterian.com/report/gh/NiciFranchi/iotjs)
+[![stability status](https://qa.meterian.com/badge/gh/NiciFranchi/iotjs/stability)](https://qa.meterian.com/report/gh/NiciFranchi/iotjs)
+
 You can find project details on our [project page](http://samsung.github.io/iotjs/) and [wiki](https://github.com/Samsung/iotjs/wiki).
 
 Memory usage and Binary footprint are measured at [here](https://samsung.github.io/iotjs-test-results) with real target daily.
